@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thefr\\OneDrive\\Documentos\\GitHub\\trabajo_infor_2026\\ARCHON_WARHAMMER 4OK\\ARCHON_WARHAMMER 40K\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB2F03B-F516-4EC6-B9E6-010EF4740ED2}|ARCHON_WARHAMMER 40K.vcxproj|C:\\Users\\thefr\\OneDrive\\Documentos\\GitHub\\trabajo_infor_2026\\ARCHON_WARHAMMER 4OK\\ARCHON_WARHAMMER 40K\\ARCHON_WARHAMMER 40K.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AB2F03B-F516-4EC6-B9E6-010EF4740ED2}|ARCHON_WARHAMMER 40K.vcxproj|solutionrelative:ARCHON_WARHAMMER 40K.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thefr\\OneDrive\\Documentos\\GitHub\\trabajo_infor_2026\\Prueba_ARCHON_1\\MAIN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MAIN.cpp",
+              "DocumentMoniker": "C:\\Users\\thefr\\OneDrive\\Documentos\\GitHub\\trabajo_infor_2026\\Prueba_ARCHON_1\\MAIN.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Prueba_ARCHON_1\\MAIN.cpp",
+              "ToolTip": "C:\\Users\\thefr\\OneDrive\\Documentos\\GitHub\\trabajo_infor_2026\\Prueba_ARCHON_1\\MAIN.cpp",
+              "RelativeToolTip": "..\\..\\Prueba_ARCHON_1\\MAIN.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-17T21:02:26.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARCHON_WARHAMMER 40K.cpp",
+              "DocumentMoniker": "C:\\Users\\thefr\\OneDrive\\Documentos\\GitHub\\trabajo_infor_2026\\ARCHON_WARHAMMER 4OK\\ARCHON_WARHAMMER 40K\\ARCHON_WARHAMMER 40K.cpp",
+              "RelativeDocumentMoniker": "ARCHON_WARHAMMER 40K.cpp",
+              "ToolTip": "C:\\Users\\thefr\\OneDrive\\Documentos\\GitHub\\trabajo_infor_2026\\ARCHON_WARHAMMER 4OK\\ARCHON_WARHAMMER 40K\\ARCHON_WARHAMMER 40K.cpp",
+              "RelativeToolTip": "ARCHON_WARHAMMER 40K.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-17T20:59:32.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
