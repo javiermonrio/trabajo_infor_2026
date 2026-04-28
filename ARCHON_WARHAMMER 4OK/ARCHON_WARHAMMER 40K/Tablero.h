@@ -15,9 +15,7 @@ private:
 
 public:
     Tablero();
-    // El tablero ya no decide cuándo cambiar, Mundo le dice qué color usar
-    void actualizarColoresCambiantes(ColorActual nuevoColor);
+    // Esta es la función unificada
+    void actualizarColores(int numCiclo);
     void dibujar(sf::RenderWindow& window);
 };
-
-
